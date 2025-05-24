@@ -1,5 +1,5 @@
 # Hello, I'm naslongo!
-<a href="(https://www.linkedin.com/in/naomi-slongo-640961265/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="(www.linkedin.com/in/naomi-slongo-640961265)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a bachelor's student in International Relations with a special interest in international security, cybersecurity, and data analytics.
 
